@@ -36,8 +36,6 @@ share: true
 > | Class          | Druide          |
 > | Character Role |  |
 
-# Bara
-
 ## Titres
 
 ## Relations
