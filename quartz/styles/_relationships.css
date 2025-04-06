@@ -1,0 +1,28 @@
+/* Base Relationship Box Styling */
+.relationship-box {
+    display: inline-block;
+    width: 120px;
+    border: 1px solid #aaa;
+    padding: 5px;
+    border-radius: 6px;
+    text-align: center;
+    vertical-align: top;
+    margin: 3px;
+    color: white;
+}
+
+/* Relationship Type Colors */
+.relationship-friend { background-color: #007bff5e; }   /* Blue */
+.relationship-family { background-color: #ffc1079f; }   /* Yellow */
+.relationship-romantic { background-color: #d6336c; } /* Pink */
+.relationship-ally { background-color: #3d9752d0; }      /* Green */
+.relationship-rival { background-color: #343a40; }    /* Dark Gray */
+.relationship-enemy { background-color: #dc35466b; }    /* Red */
+
+/* Image Styling */
+.relationship-box img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+}
