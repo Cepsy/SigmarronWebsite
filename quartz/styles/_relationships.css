@@ -1,7 +1,8 @@
 /* Base Relationship Box Styling */
 .relationship-box {
     display: inline-block;
-    width: 60px;
+    width: fit-content;
+    height: fit-content;
     border: 1px solid #aaa;
     padding: 5px;
     border-radius: 6px;
