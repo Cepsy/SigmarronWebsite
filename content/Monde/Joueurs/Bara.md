@@ -11,8 +11,8 @@ NoteIcon: player
 ---
 > [!infobox]
 > # `=this.file.name`
-> ![[resources/images/Personnages/I_Bara.jpg|cover hsmall]]
-> [[resources/images/Personnages/I_Bara.jpg|Show To Players]]
+> ![[I_Bara.jpg|cover hsmall]]
+> [[I_Bara.jpg|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
