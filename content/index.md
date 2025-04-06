@@ -1,6 +1,8 @@
----
-title: Welcome to Quartz
----
+Il n'y a rien a voir ici.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Aégalia]]
+[[Bara]]
+[[Finn]]
+[[Frigg Lockstar]]
+[[Kumi]]
+[[Velena Clairsoleil]]
