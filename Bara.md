@@ -1,12 +1,12 @@
 ---
-AssociatedGroup: Désorcelleurs
-Gender: Je veux pas savoir
+AssociatedGroup: 
+Gender: Homme
 Race: Humain
 Age: Vieux
 Class: Druide
 Alignment: 
 Character-Role: 
-Location: Perdu quelque part
+Location: 
 NoteIcon: player
 share: true
 ---
@@ -21,9 +21,9 @@ share: true
 >
 > | Type      | Stat                    |
 > | --------- | ----------------------- |
-> | Home      | Perdu quelque part        |
-> | Group     | Désorcelleurs |
-> | Sex       | Je veux pas savoir          |
+> | Home      |         |
+> | Group     |  |
+> | Sex       | Homme          |
 > | Race      | Humain            |
 > | Age       | Vieux             |
 > | Condition | Healthy                 |
