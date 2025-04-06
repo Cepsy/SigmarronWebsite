@@ -49,9 +49,3 @@ share: true
 > monster: Commoner
 > columns: 1
 > ```
-
-```encounter-table
-name: Individual
-creatures:
- - 1: Commoner
-```
