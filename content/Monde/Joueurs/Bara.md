@@ -1,18 +1,19 @@
 ---
-AssociatedGroup:
+AssociatedGroup: 
 Gender: Homme
 Race: Humain
 Age: Vieux
 Class: Druide
-Alignment:
-Character-Role:
-Location:
+Alignment: 
+Character-Role: 
+Location: 
 NoteIcon: player
+share: true
 ---
 
 > [!infobox]
 >
-> # `=this.file.name`
+> # Bara
 > ![[I_Bara.jpg|cover hsmall]]
 >  [[I_Bara.jpg|Show To Players]]
 >
@@ -20,22 +21,22 @@ NoteIcon: player
 >
 > | Type      | Stat                    |
 > | --------- | ----------------------- |
-> | Home      | `=this.Location`        |
-> | Group     | `=this.AssociatedGroup` |
-> | Sex       | `=this.gender`          |
-> | Race      | `=this.race`            |
-> | Age       | `=this.age`             |
+> | Home      |         |
+> | Group     |  |
+> | Sex       | Homme          |
+> | Race      | Humain            |
+> | Age       | Vieux             |
 > | Condition | Healthy                 |
 >
 > ###### Rules Info
 >
 > | Type           | Stat                   |
 > | -------------- | ---------------------- |
-> | Alignment      | `=this.alignment`      |
-> | Class          | `=this.class`          |
-> | Character Role | `=this.character-role` |
+> | Alignment      |       |
+> | Class          | Druide          |
+> | Character Role |  |
 
-# `=this.file.name`
+# Bara
 
 ## Titres
 
