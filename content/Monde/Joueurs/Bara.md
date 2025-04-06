@@ -44,7 +44,7 @@ share: true
     <div class="relationship-box relationship-friend">
         <img src="resources/images/Personnages/I_Bara.jpg">
         <div style="font-size: 12px; font-weight: bold;">
-			[Aégalia](content/Monde/Joueurs/Aégalia.md)
+			<a href="Monde%2FCharacters%2FBara">Bara</a>
         </div>
         <div style="font-size: 10px;">Friend</div>
     </div>
