@@ -13,8 +13,8 @@ NoteIcon: player
 > [!infobox]
 >
 > # `=this.file.name`
->
-> ![[I_Bara.jpg|cover hsmall]] > [[I_Bara.jpg|Show To Players]]
+> ![[resources/images/Personnages/I_Bara.jpg|cover hsmall]]
+>  [[I_Bara.jpg|Show To Players]]
 >
 > ###### Basic Information
 >
