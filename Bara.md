@@ -6,7 +6,7 @@ Age: Vieux
 Class: Druide
 Alignment: 
 Character-Role: 
-Location: Perdu
+Location: Trouvé
 NoteIcon: player
 share: true
 ---
