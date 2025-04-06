@@ -14,6 +14,7 @@ NoteIcon: player
 >
 > # `=this.file.name`
 > ![[resources/images/Personnages/I_Bara.jpg|cover hsmall]]
+> ![[quartz/static/I_Bara.jpg|cover hsmall]]
 >  [[I_Bara.jpg|Show To Players]]
 >
 > ###### Basic Information
