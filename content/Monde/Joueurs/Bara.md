@@ -84,6 +84,10 @@ share: true
         <div style="font-size: 10px;">family</div>
     </div>
 
+> <div class="statblocks">
+> 	Test
+> </div> 
+
 > [!info] Statblock
 >
 > ```statblock
