@@ -45,4 +45,66 @@
 | **Feats** | |
 
 
+
+
+> [!statblocks|columns]
+> 
+>> [!blank]  
+>> ![Char Image|right cover htiny wtiny circle lp]()
+>> # Name
+>> > Description
+>> 
+>> *Basics*
+>> 
+>> ---
+| HP | AC | Initiative |
+|:---:|:---:|:---:|
+|1 |2 | 3|
+>>
+| STR | DEX | CON | INT | WIS | CHA |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:--- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  | **Mod** |
+|  |  |  |  |  |  | **Sav** |
+>>
+|  |  |
+| ---:|:--- |
+| **Speed** |  |
+| **Passive Perception (WIS)** |  |
+| **Proficiency Bonus** |  |
+| **Darkvision** |  |
+>> 
+>> ---
+>> 
+>>> [!checks|no-t] 
+>>> - 
+>>>	- **Spell Slots**
+>>>	- [ ] 
+>>>	- [ ] 
+>>> - **Death Saves**
+>>>	- ❌
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- ✔
+>>>	- [ ] 
+>>>	- [ ] 
+>>>	- [ ] 
+>> 
+> 
+> 
+>> [!blank]
+>> ## Traits
+| | |
+| --- | --- |
+>> 
+>> ## Feats
+>> 
+>> **Feat**
+>> Description
+>> 
+>> **Feat**
+>> Description
+
+
 https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Statblocks
