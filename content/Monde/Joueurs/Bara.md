@@ -40,6 +40,13 @@ share: true
 
 ## Relations
 
+> [!multi-column]
+> 
+> > [!info]+ Alliés
+> [Aégalia](content/Monde/Joueurs/Aégalia.md)
+> 
+> > [!note]+ Test
+
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <div class="relationship-box relationship-friend">
         <img src="resources/images/Personnages/I_Bara.jpg">
@@ -83,10 +90,6 @@ share: true
         </div>
         <div style="font-size: 10px;">family</div>
     </div>
-
-> <div class="statblocks">
-> 	Test
-> </div> 
 
 > [!info] Statblock
 >
