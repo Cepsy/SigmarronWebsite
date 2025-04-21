@@ -10,7 +10,7 @@ Location: Trouvé
 NoteIcon: player
 share: true
 ---
-
+<script type="module" src="https://unpkg.com/lucide@latest"></script>
 > [!infobox]
 >
 > # Bara
