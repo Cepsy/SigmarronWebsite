@@ -11,6 +11,8 @@ NoteIcon: player
 share: true
 ---
 <script type="module" src="https://unpkg.com/lucide@latest"></script>
+
+test
 > [!infobox]
 >
 > # Bara
