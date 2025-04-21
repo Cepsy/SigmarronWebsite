@@ -44,21 +44,12 @@ test
 
 > [!multi-column]
 > 
-> > [!alies]+ Alliés
+> > [!ally]+ Alliés
 > [Aégalia](content/Monde/Joueurs/Aégalia.md)
 > 
-> > [!enemy]+ Test
-> Test
+> > [!enemy]+ Ennemis
+> [Finn](content/Monde/Joueurs/Finn.md)
 > 
-> > [!friend]+ Friend
+> > [!friend]+ Amis
 > Test
 
-
-
-> [!info] Statblock
->
-> ```statblock
-> name: Individual
-> monster: Commoner
-> columns: 1
-> ```
