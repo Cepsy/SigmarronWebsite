@@ -14,6 +14,11 @@ export interface CalloutTranslation {
   bug: string
   example: string
   quote: string
+  enemy: string
+  friend: string
+  mentor: string
+  family: string
+  ally: string
 }
 
 export interface Translation {

@@ -20,6 +20,11 @@ export default {
       bug: "Bug",
       example: "Example",
       quote: "Quote",
+      enemy: "Enemy",
+      friend: "Friend",
+      mentor: "Mentor",
+      family: "Family",
+      ally: "Ally",
     },
     backlinks: {
       title: "Backlinks",

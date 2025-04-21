@@ -495,6 +495,30 @@
   font-size: var(--font-text-size);
 }
 
+/* Callout: Friend */
+.callout[data-callout="friend"] {
+  --callout-color: 92, 180, 255;
+  --callout-icon: lucide-user-check;
+}
+
+/* Callout: Enemy */
+.callout[data-callout="enemy"] {
+  --callout-color: 255, 90, 90;
+  --callout-icon: lucide-skull;
+}
+
+/* Callout: Mentor */
+.callout[data-callout="mentor"] {
+  --callout-color: 255, 195, 0;
+  --callout-icon: lucide-book-open;
+}
+
+/* Callout: Family */
+.callout[data-callout="family"] {
+  --callout-color: 200, 140, 255;
+  --callout-icon: lucide-users;
+}
+
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile .is-live-preview,
