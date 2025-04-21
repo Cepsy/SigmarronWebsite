@@ -42,7 +42,7 @@ share: true
 
 > [!multi-column]
 > 
-> > [!info]+ Alliés
+> > [!alies]+ Alliés
 > [Aégalia](content/Monde/Joueurs/Aégalia.md)
 > 
 > > [!enemy]+ Test

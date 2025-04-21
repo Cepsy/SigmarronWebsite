@@ -519,6 +519,12 @@
   --callout-icon: lucide-users;
 }
 
+/* Callout: Ally */
+.callout[data-callout="ally"] {
+  --callout-color: 100, 220, 150; /* A calming green */
+  --callout-icon: lucide-handshake; /* Lucide icon for allies */
+}
+
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),
 .is-mobile .is-live-preview,
