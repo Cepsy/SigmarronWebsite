@@ -1,3 +1,5 @@
+<script type="module" src="https://unpkg.com/lucide@latest"></script>
+
 Il n'y a rien a voir ici.
 
 [[Aégalia]]
