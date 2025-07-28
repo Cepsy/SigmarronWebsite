@@ -33,7 +33,7 @@
 > [!Quote] Example
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!kith|relationship] **Character Name** _Subtitle/Brief Relationship Description_
+> [!kith|ally] **Character Name** _Subtitle/Brief Relationship Description_
 > Description
 
 > [!kith|antagonist] **Character Name** _Subtitle/Brief Relationship Description_
