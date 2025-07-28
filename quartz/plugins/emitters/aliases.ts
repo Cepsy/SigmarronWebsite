@@ -27,6 +27,7 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
         <meta name="robots" content="noindex">
         <meta charset="utf-8">
         <meta http-equiv="refresh" content="0; url=${redirUrl}">
+        <script type="module" src="https://unpkg.com/lucide@latest"></script>
         </head>
         </html>
         `,

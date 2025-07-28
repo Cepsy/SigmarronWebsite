@@ -50,3 +50,5 @@ share: true
 >
 > > [!friend]+ Amis
 > > Test
+
+<lucide-handshake></lucide-handshake>
