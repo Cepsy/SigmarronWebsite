@@ -61,6 +61,11 @@ export default (() => {
         <meta name="twitter:description" content={description} />
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
+        
+        {/* [MG] Test */}
+        <script>
+          console.log("✅ Custom head loaded!");
+        </script>
 
         {!usesCustomOgImage && (
           <>
