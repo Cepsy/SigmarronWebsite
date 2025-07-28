@@ -52,5 +52,5 @@ share: true
 > > Test <lucide-handshake></lucide-handshake>
 > >
 
-> [!info] Ally <lucide-handshake></lucide-handshake>
+> [!info] Ally 
 > Kaela the Shieldbearer – a trusted friend.
