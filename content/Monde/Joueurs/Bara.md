@@ -40,17 +40,8 @@ share: true
 
 ## Relations
 
-> [!multi-column]
->
-> > [!ally]+ Alliés
-> > [Aégalia](content/Monde/Joueurs/Aégalia.md)
->
-> > [!enemy]+ Ennemis
-> > [Finn](content/Monde/Joueurs/Finn.md)
->
-> > [!friend]+ Amis
-> > Test <lucide-handshake></lucide-handshake>
-> >
+[[Aégalia]]
+[Finn](content/Monde/Joueurs/Finn.md)
 
 > [!info] Ally 
 > Kaela the Shieldbearer – a trusted friend.
