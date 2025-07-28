@@ -42,5 +42,7 @@
 | Table test | Autre test |
 | ---------- | ---------- |
 | 1          | stat       |
+<i data-lucide="handshake"></i> — Ally
+<i data-lucide="swords"></i> — Enemy
 
 >
