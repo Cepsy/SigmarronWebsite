@@ -49,6 +49,6 @@ share: true
 > > [Finn](content/Monde/Joueurs/Finn.md)
 >
 > > [!friend]+ Amis
-> > Test
+> > Test <lucide-handshake></lucide-handshake>
+> >
 
-<lucide-handshake></lucide-handshake>
