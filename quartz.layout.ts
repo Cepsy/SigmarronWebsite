@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head({
     additionalScripts: [
-      `<script type="module" src="https://unpkg.com/lucide@latest"></script>`,
+      `<script type="module" src="https://unpkg.com/lucide@latest"></script>`
     ],
   }),
   header: [],

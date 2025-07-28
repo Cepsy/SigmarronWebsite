@@ -1,34 +1,36 @@
-> [!info] Ally 
+<script type="module" src="https://unpkg.com/lucide@latest"></script>
+
+> [!info] Ally
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!note] note 
+> [!note] note
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!todo] todo 
+> [!todo] todo
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!tip] tip 
+> [!tip] tip
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!Success] Success 
+> [!Success] Success
 > Kaela the Shieldbearer – a trusted friend.
-> > [!Question] Question 
-> Kaela the Shieldbearer – a trusted friend.
+>
+> > [!Question] Question
+> > Kaela the Shieldbearer – a trusted friend.
 
-
-> [!Warning] Warning 
-> Kaela the Shieldbearer – a trusted friend.
-
-> [!failure] failure 
+> [!Warning] Warning
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!danger] danger 
+> [!failure] failure
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!Example] Example 
+> [!danger] danger
 > Kaela the Shieldbearer – a trusted friend.
 
-> [!Quote] Example 
+> [!Example] Example
+> Kaela the Shieldbearer – a trusted friend.
+
+> [!Quote] Example
 > Kaela the Shieldbearer – a trusted friend.
 
 > [!kith|relationship] **Character Name** _Subtitle/Brief Relationship Description_
@@ -41,4 +43,4 @@
 | ---------- | ---------- |
 | 1          | stat       |
 
-> 
+>
