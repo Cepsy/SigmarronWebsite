@@ -3,11 +3,7 @@ import * as Component from "./quartz/components"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
-  head: Component.Head({
-    additionalScripts: [
-      `<script type="module" src="https://unpkg.com/lucide@latest"></script>`
-    ],
-  }),
+  head: Component.Head(),
   header: [],
   afterBody: [],
   footer: Component.Footer({
