@@ -24,9 +24,16 @@ lucide-heart {
   margin-right: 0.3em;
 }
 
-.callout[data-callout="kith|antagonist"] {
-  --callout-color: 255, 100, 100;
-  --callout-icon: lucide-skull; // Pick a Lucide icon name here
+// .callout[data-callout="kith|antagonist"] {
+//   --callout-color: 255, 100, 100;
+//   --callout-icon: lucide-skull; // Pick a Lucide icon name here
+// }
+
+.callout {
+  &[data-callout="kith|antagonist"] {
+    --color: 255, 100, 100;
+    --callout-icon: lucide-skull; //SVG icon code
+  }
 }
 
 // put your custom CSS here!
