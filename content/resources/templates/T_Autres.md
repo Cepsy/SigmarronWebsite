@@ -31,7 +31,8 @@
 > [!Quote] Example 
 > Kaela the Shieldbearer – a trusted friend.
 
-
+> [!kith|relationship] **Character Name** _Subtitle/Brief Relationship Description_
+> Description
 
 | Table test | Autre test |
 | ---------- | ---------- |
