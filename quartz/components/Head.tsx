@@ -54,7 +54,6 @@ export default (() => {
             )}
           </>
         )}
-<script type="module" src="https://unpkg.com/lucide@latest"></script>
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
@@ -69,7 +68,6 @@ export default (() => {
         
         {!usesCustomOgImage && (
           <>
-          <script type="module" src="https://unpkg.com/lucide@latest"></script>
             <meta property="og:image" content={ogImageDefaultPath} />
             <meta property="og:image:url" content={ogImageDefaultPath} />
             <meta name="twitter:image" content={ogImageDefaultPath} />
@@ -82,7 +80,6 @@ export default (() => {
 
         {cfg.baseUrl && (
           <>
-          <script type="module" src="https://unpkg.com/lucide@latest"></script>
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
