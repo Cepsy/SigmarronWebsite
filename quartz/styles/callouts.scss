@@ -140,11 +140,6 @@
   --callout-icon: lucide-users;
 }
 
-.callout[data-callout="kith|ally"] {
-  --callout-color: 100, 220, 150; /* Green */
-  --callout-icon: lucide-handshake;
-}
-
 .callout[data-callout="kith|enemy"] {
   --callout-color: 255, 100, 100; /* Red */
   --callout-icon: lucide-skull;
