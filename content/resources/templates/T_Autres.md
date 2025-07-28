@@ -34,6 +34,9 @@
 > [!kith|relationship] **Character Name** _Subtitle/Brief Relationship Description_
 > Description
 
+> [!kith|antagonist] **Character Name** _Subtitle/Brief Relationship Description_
+> Description
+
 | Table test | Autre test |
 | ---------- | ---------- |
 | 1          | stat       |
