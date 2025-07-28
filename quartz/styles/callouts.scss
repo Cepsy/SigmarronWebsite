@@ -118,6 +118,15 @@
   }
 }
 
+.callout[data-callout="ally"] {
+  --callout-icon: lucide-handshake;
+  --callout-color: 100, 220, 150;
+}
+.callout[data-callout="enemy"] {
+  --callout-icon: lucide-skull;
+  --callout-color: 255, 100, 100;
+}
+
 /* Kith: Base styling for any kith-type callout */
 .callout[data-callout^="kith"] {
   --callout-color: 200, 200, 255; /* Default light blue */
