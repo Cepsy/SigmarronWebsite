@@ -5,13 +5,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 const Body: QuartzComponent = ({ children }: QuartzComponentProps) => {
   return (
-    <div>
-      <div id="quartz-body">{children}</div>
-      <i data-lucide="heart"></i>
-      <script>
-        lucide.createIcons(); // Initializes all icons on the page
-      </script>
-    </div>
+    <div id="quartz-body">{children}</div>
   )
 }
 
