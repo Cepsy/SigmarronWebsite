@@ -38,6 +38,10 @@ export default (() => {
 
     return (
       <head>
+        <script>
+          console.log("✅ Custom head loaded!");
+        </script>
+
         <title>{title}</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
@@ -62,11 +66,6 @@ export default (() => {
         <meta property="og:description" content={description} />
         <meta property="og:image:alt" content={description} />
         
-        {/* [MG] Test */}
-        <script>
-          console.log("✅ Custom head loaded!");
-        </script>
-
         {!usesCustomOgImage && (
           <>
             <meta property="og:image" content={ogImageDefaultPath} />
