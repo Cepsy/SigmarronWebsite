@@ -43,8 +43,6 @@
 | ---------- | ---------- |
 | 1          | stat       |
 
-
-
 > [!aside|clean left]+ 
 > Tufte styled aside callout
 
