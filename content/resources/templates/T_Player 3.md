@@ -40,6 +40,7 @@ color default
 
 ### Titres
 ### Relations
+```
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
     <div class="relationship-box relationship-friend">
         <img src="resources/images/Personnages/I_Bara.jpg">
@@ -84,7 +85,7 @@ color default
         <div style="font-size: 10px;">family</div>
     </div>
     <div>
-
+```
 #  Histoire
 
 #  Stats
