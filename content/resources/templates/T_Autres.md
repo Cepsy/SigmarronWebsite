@@ -44,4 +44,8 @@
 | 1          | stat       |
 
 
->
+
+> [!aside|clean left]+ 
+> Tufte styled aside callout
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet metus sed dui dapibus ullamcorper. Pellentesque dictum est tortor, id tempus orci dignissim quis. Morbi sagittis vitae lectus nec volutpat. Phasellus quis ex consectetur, dictum nibh at, commodo nisi.

@@ -60,9 +60,19 @@ export function CSSResourceToStyleElement(resource: CSSResource, preserve?: bool
   }
 }
 
+const lucideResource: JSResource = {
+  src: "https://unpkg.com/lucide@latest",
+  contentType: "external",
+  loadTime: "beforeDOMReady", // or "afterDOMReady" if you want it loaded after DOM
+  moduleType: "module",
+}
+
 export interface StaticResources {
-  css: CSSResource[]
-  js: JSResource[]
+  css: CSSResource[],
+  js: [
+    typeof lucideResource
+    // ...other JS resources
+  ],
   additionalHead: (JSX.Element | ((pageData: QuartzPluginData) => JSX.Element))[]
 }
 
