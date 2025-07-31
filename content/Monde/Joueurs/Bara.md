@@ -40,11 +40,10 @@ share: true
 
 ## Relations
 
-> [!info] Alliés 
-> [[Aégalia]] [[Finn]] [[Frigg Lockstar]] [[Velena Clairsoleil]] [[Kumi]] – porteurs du médaillon,  [[Sera]] souhaite qu'il les accompagne dans leur quête.
-> [[Sera]] – commandante de la 5ième génération des [[Désorceleurs]] 
-> [[Nera]] [[Mera]] – compagnons [[Désorceleurs]] de sa génération
-
+> [!Success] Alliés  
+> [[Aégalia]], [[Finn]], [[Frigg Lockstar]], [[Velena Clairsoleil]], [[Kumi]] - Porteurs du médaillon,  [[Sera]] souhaite qu'il les accompagne dans leur quête 
+> [[Sera]] - commandante de la 5ième génération des [[Désorceleurs]] 
+> [[Nera]] [[Mera]] - compagnons [[Désorceleurs]] de sa génération
 
 
 
